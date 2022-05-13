@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="40dp"
+    android:background="@drawable/app_background"
+    tools:context=".Fragments.SettingssFragment">
+
+
+    <Button
+        android:id="@+id/change_language"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/lbl_select_language"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:id="@+id/app_language">
+        <TextView
+            android:id="@+id/text_changeLanguage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:gravity="left"
+            android:text="@string/lbl_select_language"
+            android:textColor="@color/primary_color"
+            android:textSize="20sp"
+            tools:ignore="RtlHardcoded" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:src="@drawable/ic_language"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:background="@null"
+            android:id="@+id/button_change_language"
+            android:focusable="true"
+            android:clickable="true"
+            android:focusableInTouchMode="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            tools:ignore="RtlHardcoded" />
+    </RelativeLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line"/>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:id="@+id/app_details">
+        <TextView
+            android:id="@+id/text_account_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:gravity="left"
+            android:text="@string/about"
+            android:textColor="@color/primary_color"
+            android:textSize="20sp"
+            tools:ignore="RtlHardcoded" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:src="@drawable/ic_arrow"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:background="@null"
+            android:id="@+id/button_details"
+            android:focusable="true"
+            android:clickable="true"
+            android:focusableInTouchMode="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            tools:ignore="RtlHardcoded" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:id="@+id/app_help">
+
+        <TextView
+            android:id="@+id/text_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10sp"
+            android:gravity="left"
+            android:text="@string/help"
+            android:textColor="@color/primary_color"
+            android:textSize="20sp"
+            tools:ignore="RtlHardcoded" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:src="@drawable/ic_help_24"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:background="@null"
+            android:id="@+id/button_help"
+            android:focusable="true"
+            android:clickable="true"
+            android:focusableInTouchMode="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/primary_color"
+            tools:ignore="RtlHardcoded" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line"/>
+
+
+
+</LinearLayout>

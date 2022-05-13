@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677933024926",
+    "firebase_url": "https://crudgraduation-default-rtdb.firebaseio.com",
+    "project_id": "crudgraduation",
+    "storage_bucket": "crudgraduation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677933024926:android:c54d1b1a1671a58e141d8f",
+        "android_client_info": {
+          "package_name": "com.example.crudgraduation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677933024926-50bijkd0j1h0035a86b5m0ln9soflbr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTDgPjc7kidyYJicSyu8JLhItwi9cfDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677933024926-50bijkd0j1h0035a86b5m0ln9soflbr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

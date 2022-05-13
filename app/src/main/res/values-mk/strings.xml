@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WalletLess</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="localization">Локализација</string>
+    <string name="about">За апликацијата</string>
+    <string name="lbl_select_language">Одбери јазик</string>
+    <string name="settings_localization_language_title">Јазик</string>
+    <string name="en">Англиски</string>
+    <string name="mk">Македонски</string>
+    <string name="application_name">Име на апликацијата</string>
+    <string name="wallet_less">WalletLess</string>
+    <string name="verison">1.0.0</string>
+    <string name="version_date">Датум на верзија</string>
+    <string name="version_date_value">21.4.2022</string>
+    <string name="application_developer">Девелопер на апликацијата</string>
+    <string name="klementina_gjorgieva">Клементина Ѓоргиева</string>
+    <string name="text_new_request">Здраво,\n испрати барање за нов трговец</string>
+    <string name="merchant_name">Име на трговец овде</string>
+    <string name="merchant_description">Опис на трговец овде</string>
+    <string name="text_receive_email">Вашето барање ќе биде испратено преку мејл</string>
+    <string name="btn_send">Прати</string>
+    <string name="text_version">Верзија</string>
+    <string name="no_internet">Поврзи се на интернет</string>
+    <string name="btn_add_merchant">Додај нов трговец</string>
+    <string name="search_here">Побарај овде</string>
+    <string name="home">Дома</string>
+    <string name="merchants">Трговци</string>
+    <string name="settings">Поставки</string>
+    <string name="help">Помош</string>
+    <string name="close">Затвори</string>
+    <string name="delete">Избриши</string>
+    <string name="delete_Card">Дали сте сигурни дека сакате да ја избришете картичката?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+
+</resources>

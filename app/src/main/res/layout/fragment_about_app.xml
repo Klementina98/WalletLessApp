@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="40dp"
+    android:background="@drawable/app_background"
+    tools:context=".Fragments.AboutAppFragment">
+
+    <TextView
+        android:id="@+id/text_app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/application_name"
+        android:paddingBottom="8sp"
+        android:paddingTop="10sp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/text_app_name_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wallet_less"
+        android:paddingBottom="15sp"
+        android:textSize="18sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line"/>
+
+    <TextView
+        android:id="@+id/text_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_version"
+        android:paddingTop="10sp"
+        android:paddingBottom="8sp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/text_version_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/verison"
+        android:paddingBottom="15sp"
+        android:textSize="18sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line" />
+
+
+    <TextView
+        android:id="@+id/text_version_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/version_date"
+        android:paddingTop="10sp"
+        android:paddingBottom="8sp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/text_info_snippet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/version_date_value"
+        android:paddingBottom="15sp"
+        android:textSize="18sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line" />
+
+
+    <TextView
+        android:id="@+id/text_app_developer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/application_developer"
+        android:paddingTop="10sp"
+        android:paddingBottom="8sp"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/text_app_developer_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/klementina_gjorgieva"
+        android:paddingBottom="15sp"
+        android:textSize="18sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/line" />
+
+
+
+
+</LinearLayout>

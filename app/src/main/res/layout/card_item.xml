@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+
+    app:cardCornerRadius="20dp"
+    app:cardBackgroundColor="#800D5A66"
+    app:cardUseCompatPadding="true"
+
+    android:outlineSpotShadowColor="#00000000"
+    android:outlineAmbientShadowColor="#00000000"
+    app:cardPreventCornerOverlap="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/card_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:layout_toLeftOf="@+id/card_image"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/card_image"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/card_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/card_image"
+            android:gravity="center"
+            android:text="ZEGIN"
+            android:textColor="@color/white"
+            android:layout_centerVertical="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

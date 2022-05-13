@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="6dp"
+    app:cardBackgroundColor="#800D5A66"
+    app:cardUseCompatPadding="true"
+
+    android:outlineSpotShadowColor="#00000000"
+    android:outlineAmbientShadowColor="#00000000"
+    app:cardPreventCornerOverlap="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/card_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/card_image"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:visibility="gone"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/card_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/card_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ZEGIN"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/card_image"
+            android:visibility="gone"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:id="@+id/card_barcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:layout_below="@+id/card_name"
+            android:visibility="gone"
+            android:gravity="center"
+            />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

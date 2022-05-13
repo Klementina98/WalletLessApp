@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/app_background"
+    android:id="@+id/main">
+
+
+    <EditText
+        android:id="@+id/searchText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="4dp"
+        android:background="@drawable/button_transparent"
+        android:drawableStart="@drawable/ic_search"
+        android:drawablePadding="6dp"
+        android:hint="@string/search_here"
+        android:padding="8dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/searchText"
+        android:layout_above="@id/newMerchant">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerListCard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp" />
+
+        <TextView
+            android:id="@+id/list_status"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/no_internet"
+            android:visibility="gone"/>
+
+    </FrameLayout>
+    <LinearLayout
+        android:id="@+id/newMerchant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true">
+        <Button
+            android:id="@+id/add_merchant"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/button_transparent"
+            android:text="@string/btn_add_merchant"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>

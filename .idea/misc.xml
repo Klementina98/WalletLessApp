@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Klementina/.gradle/caches/transforms-3/a717cd001ac108cb9398307e4a5f3429/transformed/jetified-zxing-android-embedded-3.4.0/res/layout/zxing_barcode_scanner.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/drawable/edittext_search_shape.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/drawable/ic_search.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/activity_main2.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/activity_scan.xml" value="0.12135416666666667" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/activity_scanned_cards.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/card_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/fragment_add_merchand.xml" value="0.1109375" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/fragment_add_merchant.xml" value="0.20625" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/fragment_my_settings.xml" value="0.1609375" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/fragment_scan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/fragment_scanned_cards.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/fragment_settings.xml" value="0.1765625" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/navigation_bar.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/layout/scanned_card_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/menu/bottom_menu.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/menu/search_menu.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/CRUDgraduation/app/src/main/res/xml/settigs.xml" value="0.1765625" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/drawable/button_transparent.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/drawable/ic_home_36.xml" value="0.2703125" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/drawable/ic_search.xml" value="0.2703125" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/action_bar_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/activity_add_merchant.xml" value="0.1645021645021645" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/activity_help.xml" value="0.1703125" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/activity_scan.xml" value="0.264" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/activity_splash_activty.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/card_item.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/fragment_about_app.xml" value="0.1859375" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/fragment_help.xml" value="0.1703125" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/fragment_merchants.xml" value="0.264" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/fragment_settingss.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/scanned_card_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/layout/slider_item.xml" value="0.1703125" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Klementina/AndroidStudioProjects/WalletLessFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/drawable/background_splashscreen.xml" value="0.2609375" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/drawable/edittext_search_shape.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/activity_add_merchant.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/activity_scan.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/activity_scanned_cards.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/activity_splash_activty.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/fragment_dashboard.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/layout/fragment_merchants.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Klementina/Desktop/CRUDgraduation-copy/app/src/main/res/menu/bottom_menu.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/drawable/button_transparent.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/drawable/dialog_bg.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/drawable/edittext_search_shape.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/drawable/ic_home.xml" value="0.14791666666666667" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/drawable/ic_home_36.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/drawable/some_colors.xml" value="0.1" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/action_bar_layout.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/activity_add_merchant.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/activity_scan.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/activity_splash_activty.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/card_item.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/fragment_about_app.xml" value="0.1859375" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/fragment_dashboard.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/fragment_merchants.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/fragment_settingss.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/navigation_bar.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/preference_item_arrow.xml" value="0.1859375" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/layout/scanned_card_item.xml" value="0.18958333333333333" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Klementina/Desktop/WalletLess-fragments - Copy/app/src/main/res/xml/root_preferences.xml" value="0.2984375" />
+        <entry key="..\:/WalletLessFinal/app/src/main/res/layout/fragment_dashboard.xml" value="0.24547101449275363" />
+        <entry key="..\:/WalletLessFinal/app/src/main/res/layout/scanned_card_item.xml" value="0.24547101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
